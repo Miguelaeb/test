@@ -69,7 +69,7 @@ ServiLink es una aplicación que te ayuda a mantener tu hogar en óptimas condic
   <h3>Organización</h3>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 <br>
 
