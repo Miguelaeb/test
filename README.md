@@ -17,7 +17,7 @@
 </div>
 <br>
 <p>
-ServiLink es una aplicación que te ayuda a mantener tu hogar en óptimas condiciones, conectándote con profesionales que se encargan de la limpieza, el mantenimiento y la organización de tu espacio. Con ServiLink, puedes solicitar y programar servicios de calidad desde su aplicación web, sin complicaciones ni intermediarios. ServiLink te ofrece la posibilidad de elegir entre una variedad de opciones, según tus necesidades y preferencias, y de ver información detallada sobre los profesionales que realizarán el trabajo, como su descripción del servicio, su experiencia y el costo del servicio. ServiLink también es una oportunidad para los profesionales que quieran ofrecer sus servicios y formar parte de una red de confianza y calidad. ServiLink es la solución que te facilita la vida y te permite disfrutar de un hogar limpio, ordenado y confortable.
+GoCar, una plataforma en línea diseñada para simplificar el proceso de renta de vehículos.
 </p>
 <br>
 
