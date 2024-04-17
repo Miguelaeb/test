@@ -31,7 +31,6 @@ ServiLink es una aplicación que te ayuda a mantener tu hogar en óptimas condic
   <img src="https://img.shields.io/badge/TypeScript-2596be.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 <br>
 
@@ -45,6 +44,12 @@ ServiLink es una aplicación que te ayuda a mantener tu hogar en óptimas condic
   <img src="https://img.shields.io/badge/Maven-FD2D1C?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+</div>
+<br>
+
+<div align="center">
+  <h3>Diseño</h3>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 <br>
 
