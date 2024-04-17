@@ -72,7 +72,7 @@ ServiLink es una aplicación que te ayuda a mantener tu hogar en óptimas condic
 </div>
 <br>
 
-## 👨‍💻 Equipo ( c15-38-n-java-react )
+## 👨‍💻 Equipo ( s14-13-n-java-react )
 <table>
   <tr>
     <td>
