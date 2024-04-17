@@ -43,7 +43,6 @@ ServiLink es una aplicación que te ayuda a mantener tu hogar en óptimas condic
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-FD2D1C?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 </div>
 <br>
 
