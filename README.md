@@ -93,7 +93,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://github.com/No-Country/c15-38-n-java-react/assets/95196431/9ec7da3d-5b1a-404c-b8f5-2a02a46b29d3"/>
         </a>
           <h4 style="margin-top: 1rem;">Miguel Evangelista</h4>
-          <h5 style="margin-top: 1rem;">Front-End  |  UX/UI</h5>
+          <h5 style="margin-top: 1rem;">Front End  |  UX/UI</h5>
         <a href="https://github.com/Miguelaeb" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -108,7 +108,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://github.com/No-Country/c15-38-n-java-react/assets/95196431/30826316-9496-4666-b60f-460c08e1a2d5"/>
         </a>
           <h4 style="margin-top: 1rem;">Ricar Patiño</h4>
-          <h5 style="margin-top: 1rem;">Front-End</h5>
+          <h5 style="margin-top: 1rem;">Front End</h5>
         <a href="https://github.com/patinoricar" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -123,7 +123,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://media.licdn.com/dms/image/D4D35AQFrGe9yGST8dQ/profile-framedphoto-shrink_200_200/0/1693576864721?e=1714143600&v=beta&t=TfOv28x4mAeIzUeKYlc6tUBdeyBL2RPdM7_WN_8fZLE"/>
         </a>
           <h4 style="margin-top: 1rem;">Sofia Soto</h4>
-          <h5 style="margin-top: 1rem;">Front-End</h5>
+          <h5 style="margin-top: 1rem;">Front End</h5>
         <a href="https://github.com/sofi-24soto" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -138,7 +138,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://avatars.githubusercontent.com/u/97346804?v=4"/>
         </a>
           <h4 style="margin-top: 1rem;">Matias Coronel</h4>
-          <h5 style="margin-top: 1rem;">Frontend | UX/UI</h5>
+          <h5 style="margin-top: 1rem;">Front End | UX/UI</h5>
         <a href="https://github.com/MatiasCoronel1312" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -154,7 +154,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://avatars.githubusercontent.com/u/126289455?v=4"/>
         </a>
           <h4 style="margin-top: 1rem;">Angel Bernechea</h4>
-          <h5 style="margin-top: 1rem;">Frontend</h5>
+          <h5 style="margin-top: 1rem;">Front End</h5>
         <a href="https://github.com/54albert54" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -169,7 +169,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://avatars.githubusercontent.com/u/120112880?v=4"/>
         </a>
           <h4 style="margin-top: 1rem;">Lautaro Acosta</h4>
-          <h5 style="margin-top: 1rem;">Frontend</h5>
+          <h5 style="margin-top: 1rem;">Front End</h5>
         <a href="https://github.com/Lauto22" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -184,7 +184,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://media.licdn.com/dms/image/D4D35AQFGT_SZnG1wrw/profile-framedphoto-shrink_800_800/0/1704245565339?e=1714147200&v=beta&t=A_Q6-iNaEbSMFa4DLzlP27xBn8EPu33LpOH5qaUEWyw"/>
         </a>
           <h4 style="margin-top: 1rem;">Raúl Gómez</h4>
-          <h5 style="margin-top: 1rem;">Frontend | UX/UI | Github Manager</h5>
+          <h5 style="margin-top: 1rem;">Front End | UX/UI | Github Manager</h5>
         <a href="https://github.com/Raul1978x" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -199,7 +199,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://media.licdn.com/dms/image/C4E03AQE2mU7-h-8ZCg/profile-displayphoto-shrink_200_200/0/1516822366840?e=1718841600&v=beta&t=l6cqrr2vsWT9R1gae2iHqQ-CMekgC7rY9TLIUbGuKfw"/>
         </a>
           <h4 style="margin-top: 1rem;">Ricardo Tolomei</h4>
-          <h5 style="margin-top: 1rem;">Backend</h5>
+          <h5 style="margin-top: 1rem;">Back End</h5>
         <a href="https://github.com/RicardoTolomei" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -214,7 +214,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://media.licdn.com/dms/image/D4D03AQEfI4-56WowZg/profile-displayphoto-shrink_200_200/0/1666802397424?e=1718841600&v=beta&t=SaRdMr4yWQJTfxHNhVhEm-6bZL89AFwi8rbnoeNoLo8"/>
         </a>
           <h4 style="margin-top: 1rem;">Brian Diaz Diaz</h4>
-          <h5 style="margin-top: 1rem;">Backend</h5>
+          <h5 style="margin-top: 1rem;">Back End</h5>
         <a href="https://github.com/TeslaXZ" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
@@ -223,14 +223,14 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
         </a>
       </div>
     </td>
-  </td>
+</tr>
   <td>
       <div align="center">
         <a href="https://github.com/FTwork" target="_blank" rel="author">
           <img width="110" src="https://avatars.githubusercontent.com/u/97202915?v=4"/>
         </a>
           <h4 style="margin-top: 1rem;">Franco Tallei</h4>
-          <h5 style="margin-top: 1rem;">Backend</h5>
+          <h5 style="margin-top: 1rem;">Back End</h5>
         <a href="https://github.com/FTwork" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
