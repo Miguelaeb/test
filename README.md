@@ -104,8 +104,8 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
     </td>
     <td>
       <div align="center">
-        <a href="https://github.com/juanfix" target="_blank" rel="author">
-          <img width="110" src="https://avatars.githubusercontent.com/u/38234517?v=4"/>
+        <a href="https://github.com/sofi-24soto" target="_blank" rel="author">
+          <img width="110" src="https://media.licdn.com/dms/image/D4D35AQFrGe9yGST8dQ/profile-framedphoto-shrink_200_200/0/1693576864721?e=1714143600&v=beta&t=TfOv28x4mAeIzUeKYlc6tUBdeyBL2RPdM7_WN_8fZLE"/>
         </a>
           <h4 style="margin-top: 1rem;">Sofia Soto</h4>
           <h5 style="margin-top: 1rem;">Front-End</h5>
