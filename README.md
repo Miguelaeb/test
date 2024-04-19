@@ -40,6 +40,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479a1-%23Clojure?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 <br>
 
