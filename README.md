@@ -184,7 +184,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
           <img width="110" src="https://media.licdn.com/dms/image/D4D35AQFGT_SZnG1wrw/profile-framedphoto-shrink_800_800/0/1704245565339?e=1714147200&v=beta&t=A_Q6-iNaEbSMFa4DLzlP27xBn8EPu33LpOH5qaUEWyw"/>
         </a>
           <h4 style="margin-top: 1rem;">Raúl Gómez</h4>
-          <h5 style="margin-top: 1rem;">Frontend | UX/UI | Manejo de Repositorio</h5>
+          <h5 style="margin-top: 1rem;">Frontend | UX/UI | Github Manager</h5>
         <a href="https://github.com/Raul1978x" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
