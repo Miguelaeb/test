@@ -242,7 +242,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
   <td>
       <div align="center">
         <a href="https://github.com/pablex72" target="_blank" rel="author">
-          <img width="110" src=""/>
+          <img width="110" src="https://avatars.githubusercontent.com/u/118881130?v=4"/>
         </a>
           <h4 style="margin-top: 1rem;">Pablo Mejillone</h4>
           <h5 style="margin-top: 1rem;">Back End</h5>
