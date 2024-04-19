@@ -105,7 +105,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
     <td>
       <div align="center">
         <a href="https://github.com/juanfix" target="_blank" rel="author">
-          <img width="110" src="https://github.com/No-Country/c15-38-n-java-react/assets/95196431/6d887bc7-b317-4b11-b714-855dd6155b00"/>
+          <img width="110" src=""/>
         </a>
           <h4 style="margin-top: 1rem;">Sofia Soto</h4>
           <h5 style="margin-top: 1rem;">Front-End</h5>
