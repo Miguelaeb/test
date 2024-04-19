@@ -90,7 +90,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
     <td>
       <div align="center">
         <a href="https://github.com/patinoricar" target="_blank" rel="author">
-          <img width="110" src="https://www.linkedin.com/in/sofia-soto-bb3b051bb/overlay/photo/](https://avatars.githubusercontent.com/u/38234517?v=4"/>
+          <img width="110" src="https://github.com/No-Country/c15-38-n-java-react/assets/95196431/30826316-9496-4666-b60f-460c08e1a2d5"/>
         </a>
           <h4 style="margin-top: 1rem;">Ricar Patiño</h4>
           <h5 style="margin-top: 1rem;">Front-End  |  Project Manager</h5>
