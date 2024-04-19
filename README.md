@@ -165,15 +165,15 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
     </td>
   <td>
       <div align="center">
-        <a href="https://github.com/Lauto22" target="_blank" rel="author">
-          <img width="110" src="https://avatars.githubusercontent.com/u/120112880?v=4"/>
+        <a href="https://github.com/Raul1978x" target="_blank" rel="author">
+          <img width="110" src="https://media.licdn.com/dms/image/D4D35AQFGT_SZnG1wrw/profile-framedphoto-shrink_800_800/0/1704245565339?e=1714147200&v=beta&t=A_Q6-iNaEbSMFa4DLzlP27xBn8EPu33LpOH5qaUEWyw"/>
         </a>
-          <h4 style="margin-top: 1rem;">Lautaro Acosta</h4>
-          <h5 style="margin-top: 1rem;">Frontend</h5>
-        <a href="https://github.com/Lauto22" target="_blank">
+          <h4 style="margin-top: 1rem;">Raúl Gómez</h4>
+          <h5 style="margin-top: 1rem;">Frontend | UX/UI | Manejo de Repositorio</h5>
+        <a href="https://github.com/Raul1978x" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
-        <a href="https://www.linkedin.com/in/lautaronacosta/" target="_blank">
+        <a href="https://www.linkedin.com/in/ra%C3%BAl-g%C3%B3mez-44a342252" target="_blank">
           <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
       </div>
