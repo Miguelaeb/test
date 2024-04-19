@@ -74,6 +74,21 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
   <tr>
     <td>
       <div align="center">
+        <a href="https://github.com/rogerparra" target="_blank" rel="author">
+          <img width="110" src="https://media.licdn.com/dms/image/D4D03AQHjXTCa2Y9SHg/profile-displayphoto-shrink_200_200/0/1706713379411?e=1718841600&v=beta&t=h7kcrP9HrjhvimWxc3s3jeBcv2OD5sRH9e9xeL3lVW0"/>
+        </a>
+          <h4 style="margin-top: 1rem;">Roger Parra</h4>
+          <h5 style="margin-top: 1rem;">Project Manager</h5>
+        <a href="https://github.com/rogerparra" target="_blank">
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/roger-parra/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
         <a href="https://github.com/Miguelaeb" target="_blank" rel="author">
           <img width="110" src="https://github.com/No-Country/c15-38-n-java-react/assets/95196431/9ec7da3d-5b1a-404c-b8f5-2a02a46b29d3"/>
         </a>
