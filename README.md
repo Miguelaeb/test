@@ -105,14 +105,14 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
     <td>
       <div align="center">
         <a href="https://github.com/juanfix" target="_blank" rel="author">
-          <img width="110" src=""/>
+          <img width="110" src="https://github.com/No-Country/c15-38-n-java-react/assets/95196431/6d887bc7-b317-4b11-b714-855dd6155b00"/>
         </a>
           <h4 style="margin-top: 1rem;">Sofia Soto</h4>
           <h5 style="margin-top: 1rem;">Front-End</h5>
-        <a href="https://github.com/juanfix" target="_blank">
+        <a href="https://github.com/sofi-24soto" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
-        <a href="https://www.linkedin.com/in/juan-jose-ceballos-navia/" target="_blank">
+        <a href="https://www.linkedin.com/in/sofia-soto-bb3b051bb/" target="_blank">
           <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
       </div>
