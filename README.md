@@ -133,6 +133,22 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
       </div>
     </td>
   </tr>
+  <td>
+      <div align="center">
+        <a href="https://github.com/MatiasCoronel1312" target="_blank" rel="author">
+          <img width="110" src="https://avatars.githubusercontent.com/u/97346804?v=4"/>
+        </a>
+          <h4 style="margin-top: 1rem;">Matias Coronel</h4>
+          <h5 style="margin-top: 1rem;">Frontend | UX/UI</h5>
+        <a href="https://github.com/MatiasCoronel1312" target="_blank">
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/matias-coronel-77a8b822b/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 <br>
 
