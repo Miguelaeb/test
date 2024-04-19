@@ -208,6 +208,21 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
         </a>
       </div>
     </td>
+  <td>
+      <div align="center">
+        <a href="https://github.com/TeslaXZ" target="_blank" rel="author">
+          <img width="110" src="https://media.licdn.com/dms/image/D4D03AQEfI4-56WowZg/profile-displayphoto-shrink_200_200/0/1666802397424?e=1718841600&v=beta&t=SaRdMr4yWQJTfxHNhVhEm-6bZL89AFwi8rbnoeNoLo8"/>
+        </a>
+          <h4 style="margin-top: 1rem;">Brian Diaz Diaz</h4>
+          <h5 style="margin-top: 1rem;">Backend</h5>
+        <a href="https://github.com/TeslaXZ" target="_blank">
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/brianodz/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </div>
+    </td>
 </table>
 <br>
 
