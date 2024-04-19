@@ -148,7 +148,6 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
         </a>
       </div>
     </td>
-  </tr>
    <td>
       <div align="center">
         <a href="https://github.com/Lauto22" target="_blank" rel="author">
