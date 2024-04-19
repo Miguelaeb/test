@@ -193,6 +193,21 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
         </a>
       </div>
     </td>
+  <td>
+      <div align="center">
+        <a href="https://github.com/RicardoTolomei" target="_blank" rel="author">
+          <img width="110" src="https://media.licdn.com/dms/image/C4E03AQE2mU7-h-8ZCg/profile-displayphoto-shrink_200_200/0/1516822366840?e=1718841600&v=beta&t=l6cqrr2vsWT9R1gae2iHqQ-CMekgC7rY9TLIUbGuKfw"/>
+        </a>
+          <h4 style="margin-top: 1rem;">Ricardo Tolomei</h4>
+          <h5 style="margin-top: 1rem;">Backend</h5>
+        <a href="https://github.com/RicardoTolomei" target="_blank">
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/ricardo-andr%C3%A9s-tolomei-99a4b380/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </div>
+    </td>
 </table>
 <br>
 
