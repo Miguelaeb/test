@@ -249,7 +249,7 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
         <a href="https://github.com/pablex72" target="_blank">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
-        <a href="" target="_blank">
+        <a href="" target="https://www.linkedin.com/in/pablo-mejillone-98b07425a/">
           <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
       </div>
