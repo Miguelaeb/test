@@ -5,13 +5,13 @@
 </div>
 
 <div align='center'>
-    <a href="https://servilink.vercel.app/" target="_blank">
+    <a href="" target="_blank">
         <img  src="https://img.shields.io/badge/VER_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
-   <a href="https://servilink-api.onrender.com/swagger-ui/index.html" target="_blank">
+   <a href="" target="_blank">
         <img  src="https://img.shields.io/badge/VER_API-5e5e5e?style=for-the-badge&logo=swagger&logoColor=%9b9b9b"/>
     </a>
-    <a href="https://github.com/No-Country/c15-38-n-java-react/issues" target="_blank">
+    <a href="" target="_blank">
         <img  src="https://img.shields.io/badge/REPORTAR_BUG-343B4E?style=for-the-badge"/>
     </a>
 </div>
