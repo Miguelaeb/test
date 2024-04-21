@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://servilink.vercel.app/" target="_blank">
-    <img src="https://github.com/No-Country/c15-38-n-java-react/assets/95196431/396e11d7-7d2f-4890-a588-a06ba7579529"/>
+  <a href="" target="_blank">
+    <img src=""/>
   </a>
 </div>
 
