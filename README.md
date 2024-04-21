@@ -258,8 +258,8 @@ GoCar, una plataforma en línea diseñada para simplificar el proceso de renta d
 <br>
 
 ## 🎬 Video Promocional
-<a href="https://youtu.be/1QxirRAjJ6o" target="_blank">
-    <img src="https://github.com/No-Country/c15-38-n-java-react/assets/95196431/03ca9a4c-1d01-4223-bd12-0b36f94c87c5"/>
+<a href="" target="_blank">
+    <img src=""/>
 </a>
 <br>
 
