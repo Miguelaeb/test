@@ -36,6 +36,7 @@ Nuestra interfaz sencilla te permite buscar y comparar precios y característica
   <img src="https://img.shields.io/badge/TypeScript-2596be.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-774abd?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 <br>
 
