@@ -11,6 +11,9 @@
    <a href="https://gocarapp.onrender.com/swagger-ui/index.html" target="_blank">
         <img  src="https://img.shields.io/badge/VER_API-5e5e5e?style=for-the-badge&logo=swagger&logoColor=%9b9b9b"/>
     </a>
+  <a href="https://www.figma.com/file/HRj4js9K6aybjYJu8XvBTu/Rent-a-car-(Copy)?type=design&node-id=1-5&mode=design&t=xt50kXYuARpNcS7B-0" target="_blank">
+        <img  src="https://img.shields.io/badge/VER_DISEÑO-5e5e5e?style=for-the-badge&logo=figma&logoColor=%9b9b9b"/>
+    </a>
     <a href="" target="_blank">
         <img  src="https://img.shields.io/badge/REPORTAR_BUG-343B4E?style=for-the-badge"/>
     </a>
