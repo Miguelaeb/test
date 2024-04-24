@@ -20,7 +20,9 @@
 </div>
 <br>
 <p>
-GoCar, una plataforma en línea diseñada para simplificar el proceso de renta de vehículos.
+GoCar es tu compañero de viaje confiable para explorar el mundo a tu propio ritmo. Con nuestra intuitiva plataforma en línea, encontrar y reservar el vehículo perfecto para tus aventuras nunca ha sido tan fácil. Ya sea que estés planeando un viaje de fin de semana o una escapada de larga distancia, GoCar te ofrece una amplia selección de opciones de alquiler, desde coches compactos hasta SUVs espaciosos y vehículos de lujo.
+
+Nuestra interfaz sencilla te permite buscar y comparar precios y características de diferentes vehículos en tiempo real, para que puedas tomar la mejor decisión según tus necesidades y presupuesto. Además, ofrecemos opciones de alquiler flexibles, desde horas hasta días, para adaptarnos a tu agenda.
 </p>
 <br>
 
